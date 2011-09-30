@@ -12,6 +12,7 @@ gem 'spree_wishlist', :git => 'git://raw.github.com/spree/spree_wishlist.git', :
 gem 'spree_comments', :git => 'git://raw.github.com/spree/spree_comments.git', :branch => '0-30-x'
 
 gem 'spree_email_to_friend'
+gem "acts_as_commentable"
 
 # Use unicorn as the web server
 # gem 'unicorn'
