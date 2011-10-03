@@ -17,6 +17,9 @@ gem "acts_as_commentable"
 
 gem "spree_paypal_express", :git => "git://github.com/spree/spree_paypal_express.git"
 
+gem 'spree_social', :git => 'git://raw.github.com/spree/spree_social.git', :tag => 'v1.2'
+
+
 
 
 # Use unicorn as the web server
